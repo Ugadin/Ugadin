@@ -2,7 +2,7 @@
 
 - 📚 Em aprendizado continuo!
 - 👨🏻‍💻 Full Stack Developer in Node.js !
-- 🌎 Acredito que podemos melhorar o mundo!
+- 🌎 Acredito que podemos melhorar o mundo com tecnologia!
 - 📘 Me especializando em React.js!
 
 ##
